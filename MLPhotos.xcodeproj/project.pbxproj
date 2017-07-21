@@ -13,6 +13,7 @@
 		83BDA9DA1F219D04008BFD25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83BDA9D91F219D04008BFD25 /* Assets.xcassets */; };
 		83BDA9DD1F219D04008BFD25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83BDA9DB1F219D04008BFD25 /* LaunchScreen.storyboard */; };
 		83BDA9E51F219E92008BFD25 /* GoogLeNetPlaces.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 83BDA9E41F219D34008BFD25 /* GoogLeNetPlaces.mlmodel */; };
+		83BDA9E71F21A821008BFD25 /* cat2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83BDA9E61F21A821008BFD25 /* cat2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		83BDA9DC1F219D04008BFD25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83BDA9DE1F219D04008BFD25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83BDA9E41F219D34008BFD25 /* GoogLeNetPlaces.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = GoogLeNetPlaces.mlmodel; path = "../../../../../../Resources/Machine Learning Models/GoogLeNetPlaces.mlmodel"; sourceTree = "<group>"; };
+		83BDA9E61F21A821008BFD25 /* cat2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat2.jpg; path = "../../../../../../Resources/Images & Icons/Images/cat2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		83BDA9D11F219D04008BFD25 /* MLPhotos */ = {
 			isa = PBXGroup;
 			children = (
+				83BDA9E61F21A821008BFD25 /* cat2.jpg */,
 				83BDA9E41F219D34008BFD25 /* GoogLeNetPlaces.mlmodel */,
 				83BDA9D21F219D04008BFD25 /* AppDelegate.swift */,
 				83BDA9D41F219D04008BFD25 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83BDA9DD1F219D04008BFD25 /* LaunchScreen.storyboard in Resources */,
+				83BDA9E71F21A821008BFD25 /* cat2.jpg in Resources */,
 				83BDA9DA1F219D04008BFD25 /* Assets.xcassets in Resources */,
 				83BDA9D81F219D04008BFD25 /* Main.storyboard in Resources */,
 			);
